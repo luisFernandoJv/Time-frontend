@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 50px;
+    padding: 0;
+    margin: auto;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+.container{
+    margin:100px auto;
+    padding: 40px;
+    width: 25%;
+    background-color: rgb(30, 26, 26);
+    box-shadow: 0 2px 12px -8px black   ;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    padding: 0;
+}
+button{
+
+    padding: 6px;
+    border: 2px solid rgb(176, 173, 173);
+
+}
+button:hover{
+    border-bottom: 2px solid rgb(84, 195, 47);
+}
+
+.pausado{
+    color: rgb(233, 19, 19);
+}
